@@ -1,0 +1,24 @@
+# Java / Maven
+target/
+*.class
+*.jar
+*.war
+.settings/
+.project
+.classpath
+
+# Node / React
+node_modules/
+dist/
+build/
+*.log
+.env.local
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# Database files
+*.mv.db
+*.trace.db
